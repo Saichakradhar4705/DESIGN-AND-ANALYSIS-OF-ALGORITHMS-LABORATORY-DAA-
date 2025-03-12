@@ -37,8 +37,8 @@ public class three_three {
 
     public static void main(String[] args) {
         // Two numbers
-        long x = 145623;
-        long y = 653324;
+        long x = 20;
+        long y = 30;
         System.out.print("The final product is: ");
         long product = karatsuba(x, y);
         System.out.println(product);
