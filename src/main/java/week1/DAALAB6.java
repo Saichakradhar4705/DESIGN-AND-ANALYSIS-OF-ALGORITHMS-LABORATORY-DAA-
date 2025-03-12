@@ -1,4 +1,4 @@
-package org.example;
+package week1;
 import java.util.Random;
 import java.util.Arrays;
 

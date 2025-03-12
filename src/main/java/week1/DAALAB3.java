@@ -1,4 +1,4 @@
-package org.example;
+package week1;
 
 public class DAALAB3 {
         static char last_removed;

@@ -1,4 +1,4 @@
-package org.example;
+package week1;
 
 import java.util.*;
 
@@ -24,7 +24,7 @@ class DAALAB1 {
     }
 
     public static void main(String[] args) {
-        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+        List<Integer> numbers = Arrays.asList(12,3,4,5,6);
         int secondLargest = findSecondLargest(numbers);
         System.out.println(secondLargest);
     }
